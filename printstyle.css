@@ -1,0 +1,188 @@
+html
+{
+   
+}
+
+body
+{
+    font-family: verdana,arial;
+    font-weight : normal;
+    font-size: 90%;
+    background : #E5EAF0;
+
+}
+
+#details_center_text
+{
+	border: 0;
+	padding: 0;
+	margin:0;
+	top:0;
+	left:0;
+	position:static;
+
+}
+.grid_label
+{
+	padding-top:10px;
+	padding-bottom:2px;
+	font-size:10pt;
+	font-variant:small-caps;
+	font-weight:bold;
+	
+}
+.panel
+{
+	font-size: 10pt;
+	clear:both;
+	page-break-inside:avoid;	
+	width:90%;
+
+}
+
+.repeater_label
+{
+	font-weight:bold;
+	font-size: 10pt;
+	text-align:right;
+	float: left;
+	padding-right:10px;
+	width:160px;
+	clear:both;
+}
+
+#item
+{
+	padding-top:1px;
+	clear:both;
+
+}
+
+#address_item
+{
+	padding-top:1px;
+	clear:both;
+}
+
+#address_block
+{
+	width:320px;
+	float:none;
+}
+#address_grid
+{
+	width:100%;
+}
+
+#repeater_data, .repeater_data
+{
+	float:left;
+	/*font-weight:bold;*/	
+	font-size:10pt;
+
+}
+
+#notelayout
+{	
+	font-size:10pt;
+	float:left;
+	width:500px;
+	font-weight:normal;
+	text-align:justify;
+	white-space:normal;
+}
+
+/* #header
+{
+    color : #000;
+    background : #003466;
+    width : 100%;
+    white-space:nowrap;
+} */
+
+.title
+{
+	font-family: 'Times New Roman', 'Times', serif;
+	font-size:20px;
+	padding-top:25px;
+	border-bottom: 3px solid #7591ac;
+	clear:both;
+	float:none;
+	width:100%;
+	page-break-after:auto;
+	
+}
+.quick_label
+{
+	font-family: verdana,arial;
+	font-size: 10pt;
+	text-align:left;
+	float: left;
+	padding-right:1px;
+	width:105px;
+	clear:both;
+	white-space:nowrap;
+}
+
+tr.convictionheader
+{
+	font-size:10pt;
+	/*padding-left:4px;
+	padding-right:4px;
+	padding-bottom:4px;*/
+	top:0;
+	left:0;	
+}
+
+tr.convictionitem
+{
+	font-size:10pt;
+	top:0;
+	left:0;
+}
+
+#conviction_grid
+{	width:100%;
+	top:0;
+	left:0;	
+
+}
+
+.no_print
+{
+	display:none;
+}
+#Top_menu1
+{
+	display:none;
+}
+#Top_menu2
+{
+	display:none;
+}
+
+
+/* new dps style */
+#header {
+   display:none;
+   
+}
+#line-seperator
+{
+   display:none;
+}
+
+#dpsNav
+{
+    display:none;
+}
+
+#dpsContainer
+{  display:none;
+   
+    }
+#main_nav
+{
+    display:none;
+}
+    
